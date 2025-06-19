@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 16_WordsWithLengths {
-    // Method to split text into words using charAt
+public class Q16_WordsWithLengths {
     public static String[] splitByCharAt(String str) {
         int len = getLength(str);
         int wordCount = 1;
@@ -20,7 +19,6 @@ public class 16_WordsWithLengths {
         return words;
     }
 
-    // Method to find length without using length()
     public static int getLength(String str) {
         int count = 0;
         try {
@@ -32,7 +30,6 @@ public class 16_WordsWithLengths {
         return count;
     }
 
-    // Method to get 2D array of words and their lengths
     public static String[][] getWordsAndLengths(String[] words) {
         String[][] arr = new String[words.length][2];
         for (int i = 0; i < words.length; i++) {
@@ -42,7 +39,6 @@ public class 16_WordsWithLengths {
         return arr;
     }
 
-    // Method to display 2D array in tabular format
     public static void displayTable(String[][] arr) {
         System.out.println("Word\tLength");
         for (String[] row : arr) {
