@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 19_SwapNumbers {
+public class Q19_SwapNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter first number: ");
