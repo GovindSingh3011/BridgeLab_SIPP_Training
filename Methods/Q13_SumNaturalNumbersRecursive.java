@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 13_SumNaturalNumbersRecursive {
+public class Q13_SumNaturalNumbersRecursive {
     public static int sumRecursive(int n) {
         if (n <= 0) return 0;
         return n + sumRecursive(n - 1);
