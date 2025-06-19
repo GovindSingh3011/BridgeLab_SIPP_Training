@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 27_TotalIncome {
+public class Q27_TotalIncome {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter salary: ");
