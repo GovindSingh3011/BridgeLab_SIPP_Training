@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 09_CompareStringsCharAt {
-    // Method to compare two strings using charAt
+public class Q09_CompareStringsCharAt {
     public static boolean compareByCharAt(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
         for (int i = 0; i < s1.length(); i++) {
