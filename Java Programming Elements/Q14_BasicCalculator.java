@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 14_sBasicCalculator {
+public class Q14_BasicCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter first number: ");
