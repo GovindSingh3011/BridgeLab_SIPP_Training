@@ -1,4 +1,4 @@
-public class 04_ProfitCalculator {
+public class Q04_ProfitCalculator {
     public static void main(String[] args) {
         double costPrice = 129;
         double sellingPrice = 191;
