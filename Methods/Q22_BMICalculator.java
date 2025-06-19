@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 22_BMICalculator {
+public class Q22_BMICalculator {
     public static double[][] calculateBMI(double[][] data) {
         double[][] result = new double[data.length][3];
         for (int i = 0; i < data.length; i++) {
