@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 09_SimpleInterest {
+public class Q09_SimpleInterest {
     public static double calculateSimpleInterest(double principal, double rate, double time) {
         return (principal * rate * time) / 100;
     }
