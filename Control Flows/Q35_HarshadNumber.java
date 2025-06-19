@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 35_HarshadNumber {
+public class Q35_HarshadNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt(), sum = 0, n = number;
