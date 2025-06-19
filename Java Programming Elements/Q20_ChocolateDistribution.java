@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 20_ChocolateDistribution {
+public class Q20_ChocolateDistribution {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number of chocolates: ");
