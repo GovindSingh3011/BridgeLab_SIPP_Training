@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 21_UnitConverterLength {
+public class Q21_UnitConverterLength {
     public static double convertYardsToFeet(double yards) {
         return yards * 3;
     }
