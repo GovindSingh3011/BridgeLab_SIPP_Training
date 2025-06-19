@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 02_TrigonometricFunctions {
+public class Q02_TrigonometricFunctions {
     public static double[] calculateTrigonometricFunctions(double angle) {
         double radians = Math.toRadians(angle);
         double[] result = new double[3];
