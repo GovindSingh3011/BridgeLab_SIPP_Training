@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 08_ChocolateDivider {
+public class Q08_ChocolateDivider {
     public static int[] findRemainderAndQuotient(int number, int divisor) {
         int[] result = new int[2];
         result[0] = number / divisor;
