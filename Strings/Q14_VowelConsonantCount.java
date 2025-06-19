@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 14_VowelConsonantCount {
-    // Method to check if character is vowel, consonant, or not a letter
+public class Q14_VowelConsonantCount {
     public static String checkCharType(char c) {
         if (c >= 'A' && c <= 'Z') c = (char)(c + 32); // to lowercase
         if (c >= 'a' && c <= 'z') {
@@ -11,7 +10,6 @@ public class 14_VowelConsonantCount {
         return "Not a Letter";
     }
 
-    // Method to count vowels and consonants in a string
     public static int[] countVowelsConsonants(String str) {
         int vowels = 0, consonants = 0;
         for (int i = 0; i < str.length(); i++) {
