@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 16_PurchasePrice {
+public class Q16_PurchasePrice {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter unit price: ");
