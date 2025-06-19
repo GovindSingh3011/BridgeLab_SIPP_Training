@@ -1,4 +1,4 @@
-public class 02_AverageMarks {
+public class Q02_AverageMarks {
     public static void main(String[] args) {
         double maths = 94;
         double physics = 95;
