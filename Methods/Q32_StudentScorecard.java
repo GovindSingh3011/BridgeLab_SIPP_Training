@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 32_StudentScorecard {
+public class Q32_StudentScorecard {
     public static int[][] generateScores(int numStudents) {
         int[][] scores = new int[numStudents][3];
         for (int i = 0; i < numStudents; i++) {
