@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 28_GreatestFactorWhile {
+public class Q28_GreatestFactorWhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt(), counter = number - 1, greatestFactor = 1;
