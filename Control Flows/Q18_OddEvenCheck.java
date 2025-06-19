@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 18_OddEvenCheck {
+public class Q18_OddEvenCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
