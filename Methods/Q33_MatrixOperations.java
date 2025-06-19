@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 33_MatrixOperations {
+public class Q33_MatrixOperations {
     public static int[][] generateMatrix(int rows, int cols) {
         int[][] matrix = new int[rows][cols];
         for (int i = 0; i < rows; i++) {
