@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 16_UnitConverterTemperature {
+public class Q16_UnitConverterTemperature {
     public static double convertFahrenheitToCelsius(double fahrenheit) {
         return (fahrenheit - 32) * 5 / 9;
     }
