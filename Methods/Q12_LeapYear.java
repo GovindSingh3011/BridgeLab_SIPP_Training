@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class 12_LeapYear {
-    public static boolean 12_isLeapYear(int year) {
+public class Q12_LeapYear {
+    public static boolean isLeapYear(int year) {
         if (year < 1582) return false;
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }
