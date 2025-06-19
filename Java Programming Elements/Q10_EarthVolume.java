@@ -1,4 +1,4 @@
-public class 10_EarthVolume {
+public class Q10_EarthVolume {
     public static void main(String[] args) {
         double radiusKm = 6378;
         double volumeKm = (4.0 / 3.0) * Math.PI * Math.pow(radiusKm, 3);
