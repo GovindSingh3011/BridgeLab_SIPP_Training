@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 21_TravelDistance {
+public class Q21_TravelDistance {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter name: ");
