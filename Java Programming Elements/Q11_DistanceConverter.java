@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 11_DistanceConverter {
+public class Q11_DistanceConverter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter distance in feet: ");
