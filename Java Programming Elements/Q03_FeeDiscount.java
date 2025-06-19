@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 03_FeeDiscount {
+public class Q03_FeeDiscount {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter student fee: ");
