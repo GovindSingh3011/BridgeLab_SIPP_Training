@@ -1,4 +1,4 @@
-public class 05_AgeCalculator {
+public class Q05_AgeCalculator {
     public static void main(String[] args) {
         int birthYear = 2000;
         int currentYear = 2024;
