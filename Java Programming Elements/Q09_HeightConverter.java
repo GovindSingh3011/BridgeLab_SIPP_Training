@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 09_HeightConverter {
+public class Q09_HeightConverter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter height in centimeters: ");
