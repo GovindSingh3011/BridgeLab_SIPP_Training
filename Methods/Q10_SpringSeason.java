@@ -1,4 +1,4 @@
-public class 10_SpringSeason {
+public class Q10_SpringSeason {
     public static boolean isSpringSeason(int month, int day) {
         if (month < 3 || month > 6) return false;
         if (month == 3 && day < 20) return false;
