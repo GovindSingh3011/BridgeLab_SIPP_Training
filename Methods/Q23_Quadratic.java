@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 23_Quadratic {
+public class Q23_Quadratic {
     public static double[] findRoots(double a, double b, double c) {
         double delta = b * b - 4 * a * c;
         if (delta < 0) return new double[]{};
