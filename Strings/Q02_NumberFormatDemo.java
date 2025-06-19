@@ -1,14 +1,11 @@
 import java.util.Scanner;
 
-public class 02_NumberFormatDemo {
-    // Method to generate NumberFormatException
+public class Q02_NumberFormatDemo {
     public static void generateNumberFormat(String text) {
-        // This will throw NumberFormatException if text is not a valid integer
         int num = Integer.parseInt(text);
         System.out.println("Parsed number: " + num);
     }
 
-    // Method to handle NumberFormatException
     public static void handleNumberFormat(String text) {
         try {
             int num = Integer.parseInt(text);
@@ -24,8 +21,6 @@ public class 02_NumberFormatDemo {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string to parse as integer: ");
         String input = sc.next();
-        // Uncomment to see the exception
-        // generateNumberFormat(input);
         System.out.println("Demonstrating NumberFormatException handling:");
         handleNumberFormat(input);
     }
