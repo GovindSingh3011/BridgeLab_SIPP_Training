@@ -1,4 +1,4 @@
-public class 26_FootballTeamHeights {
+public class Q26_FootballTeamHeights {
     public static int[] generateHeights() {
         int[] heights = new int[11];
         for (int i = 0; i < 11; i++) {
