@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 06_Multiplication6to9 {
+public class Q06_Multiplication6to9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
