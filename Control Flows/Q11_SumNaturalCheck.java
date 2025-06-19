@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 11_SumNaturalCheck {
+public class Q11_SumNaturalCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
