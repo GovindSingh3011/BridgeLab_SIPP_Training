@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 03_MinMaxNumbers {
+public class Q03_MinMaxNumbers {
     public static int[] findSmallestAndLargest(int number1, int number2, int number3) {
         int[] result = new int[2];
         result[0] = Math.min(Math.min(number1, number2), number3);
