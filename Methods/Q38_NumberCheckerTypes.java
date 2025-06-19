@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 38_NumberCheckerTypes {
+public class Q38_NumberCheckerTypes {
     public static int[] getFactors(int number) {
         int count = 0;
         for (int i = 1; i <= number; i++) {
