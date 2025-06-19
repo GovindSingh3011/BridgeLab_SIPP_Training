@@ -1,4 +1,4 @@
-public class 14_RandomNumbersStats {
+public class Q14_RandomNumbersStats {
     public static int[] generate4DigitRandomArray(int size) {
         int[] array = new int[size];
         for (int i = 0; i < size; i++) {
