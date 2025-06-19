@@ -1,4 +1,4 @@
-public class 07_PenDistribution {
+public class Q07_PenDistribution {
     public static void main(String[] args) {
         int totalPens = 14;
         int students = 3;
