@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 13_DivisibleByFive {
+public class Q13_DivisibleByFive {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
