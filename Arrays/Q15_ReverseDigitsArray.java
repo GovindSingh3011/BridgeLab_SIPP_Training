@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 15_ReverseDigitsArray {
+public class Q15_ReverseDigitsArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
