@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 08_KmToMiles {
+public class Q08_KmToMiles {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter distance in kilometers: ");
