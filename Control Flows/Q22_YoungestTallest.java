@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 22_YoungestTallest {
+public class Q22_YoungestTallest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int age1 = sc.nextInt(), height1 = sc.nextInt();
