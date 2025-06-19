@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 12_StudentGrades {
+public class Q12_StudentGrades {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of students: ");
