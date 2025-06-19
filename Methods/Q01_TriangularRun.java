@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 01_TriangularRun {
+public class Q01_TriangularRun {
     public static double calculateRounds(double side1, double side2, double side3) {
         double perimeter = side1 + side2 + side3;
         return 5000 / perimeter;
