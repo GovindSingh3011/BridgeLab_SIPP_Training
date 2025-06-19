@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 32_CountDigits {
+public class Q32_CountDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt(), count = 0;
