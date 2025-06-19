@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 17_StudentVoteChecker {
+public class Q17_StudentVoteChecker {
     public static boolean canStudentVote(int age) {
         if (age < 0) return false;
         return age >= 18;
