@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 17_QuotientRemainder {
+public class Q17_QuotientRemainder {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter first number: ");
