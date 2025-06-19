@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 18_StringLengthManual {
-    // Method to find length without using length()
+public class Q18_StringLengthManual {
     public static int getLength(String str) {
         int count = 0;
         try {
@@ -9,9 +8,7 @@ public class 18_StringLengthManual {
                 str.charAt(count);
                 count++;
             }
-        } catch (Exception e) {
-            // End of string
-        }
+        } catch (Exception e) {}
         return count;
     }
 
