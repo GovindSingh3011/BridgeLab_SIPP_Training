@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 36_PrimeCheck {
+public class Q36_PrimeCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
