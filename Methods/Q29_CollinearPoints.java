@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 29_CollinearPoints {
+public class Q29_CollinearPoints {
     public static boolean areCollinearSlope(double x1, double y1, double x2, double y2, double x3, double y3) {
         double slopeAB = (y2 - y1) / (x2 - x1);
         double slopeBC = (y3 - y2) / (x3 - x2);
