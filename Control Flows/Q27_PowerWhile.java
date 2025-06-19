@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 27_PowerWhile {
+public class Q27_PowerWhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt(), power = sc.nextInt(), result = 1, counter = 0;
