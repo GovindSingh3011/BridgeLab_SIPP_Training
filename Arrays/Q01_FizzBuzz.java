@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 01_FizzBuzz {
+public class Q01_FizzBuzz {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a positive number: ");
