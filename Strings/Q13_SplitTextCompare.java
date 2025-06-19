@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 13_SplitTextCompare {
-    // Method to find length without using length()
+public class Q13_SplitTextCompare {
     public static int getLength(String str) {
         int count = 0;
         try {
@@ -9,13 +8,10 @@ public class 13_SplitTextCompare {
                 str.charAt(count);
                 count++;
             }
-        } catch (Exception e) {
-            // End of string
-        }
+        } catch (Exception e) {}
         return count;
     }
 
-    // Method to split text into words using charAt()
     public static String[] splitByCharAt(String str) {
         int len = getLength(str);
         int wordCount = 1;
@@ -33,8 +29,7 @@ public class 13_SplitTextCompare {
         words[wordIdx] = str.substring(start, len);
         return words;
     }
-
-    // Method to compare two string arrays
+    
     public static boolean compareStringArrays(String[] arr1, String[] arr2) {
         if (arr1.length != arr2.length) return false;
         for (int i = 0; i < arr1.length; i++) {
