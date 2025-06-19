@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 08_MeanHeight {
+public class Q08_MeanHeight {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double[] heights = new double[11];
