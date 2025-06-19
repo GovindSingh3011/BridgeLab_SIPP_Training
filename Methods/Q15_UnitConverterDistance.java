@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 15_UnitConverterDistance {
+public class Q15_UnitConverterDistance {
     public static double convertKmToMiles(double km) {
         return km * 0.621371;
     }
