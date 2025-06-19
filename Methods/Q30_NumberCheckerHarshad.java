@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 30_NumberCheckerHarshad {
+public class Q30_NumberCheckerHarshad {
     public static int[] getDigits(int number) {
         String numStr = String.valueOf(Math.abs(number));
         int[] digits = new int[numStr.length()];
