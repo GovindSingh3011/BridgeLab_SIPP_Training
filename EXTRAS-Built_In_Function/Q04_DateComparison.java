@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class 04_DateComparison {
+public class Q04_DateComparison {
     public static void main(String[] args) {
         LocalDate date1 = LocalDate.of(2025, 6, 12);
         LocalDate date2 = LocalDate.of(2025, 6, 19);
