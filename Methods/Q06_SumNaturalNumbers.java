@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 06_SumNaturalNumbers {
+public class Q06_SumNaturalNumbers {
     public static int sumOfNaturalNumbers(int n) {
         int sum = 0;
         for (int i = 1; i <= n; i++) {
