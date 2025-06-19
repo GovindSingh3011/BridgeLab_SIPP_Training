@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 06_CountdownFor {
+public class Q06_CountdownFor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int counter = sc.nextInt();
