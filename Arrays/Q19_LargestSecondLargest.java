@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 19_LargestSecondLargest {
+public class Q19_LargestSecondLargest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
