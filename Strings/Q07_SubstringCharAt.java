@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 07_SubstringCharAt {
-    // Method to create substring using charAt
+public class Q07_SubstringCharAt {
     public static String substringByCharAt(String str, int start, int end) {
         StringBuilder sb = new StringBuilder();
         for (int i = start; i < end && i < str.length(); i++) {
@@ -10,7 +9,6 @@ public class 07_SubstringCharAt {
         return sb.toString();
     }
 
-    // Method to compare two strings using charAt
     public static boolean compareStringsByCharAt(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
         for (int i = 0; i < s1.length(); i++) {
