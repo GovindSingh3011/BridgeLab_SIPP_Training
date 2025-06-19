@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 34_NumberFactors {
+public class Q34_NumberFactors {
     public static int[] findFactors(int number) {
         int count = 0;
         for (int i = 1; i <= number; i++) {
