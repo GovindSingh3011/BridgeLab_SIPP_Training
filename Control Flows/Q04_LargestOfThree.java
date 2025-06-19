@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 04_LargestOfThree {
+public class Q04_LargestOfThree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
