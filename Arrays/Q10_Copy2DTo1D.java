@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 10_Copy2DTo1D {
+public class Q10_Copy2DTo1D {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
