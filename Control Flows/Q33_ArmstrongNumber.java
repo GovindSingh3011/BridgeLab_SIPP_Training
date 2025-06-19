@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 33_ArmstrongNumber {
+public class Q33_ArmstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt(), original = number, sum = 0;
