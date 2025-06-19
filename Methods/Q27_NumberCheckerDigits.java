@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 27_NumberCheckerDigits {
+public class Q27_NumberCheckerDigits {
     public static int countDigits(int number) {
         return String.valueOf(Math.abs(number)).length();
     }
