@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 36_NumberCheckerArmstrong {
+public class Q36_NumberCheckerArmstrong {
     public static int countDigits(int number) {
         return String.valueOf(Math.abs(number)).length();
     }
