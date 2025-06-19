@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class 37_OTPGenerator {
+public class Q37_OTPGenerator {
     public static int generateOTP() {
         return (int) (Math.random() * 900000 + 100000);
     }
