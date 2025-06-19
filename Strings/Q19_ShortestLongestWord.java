@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 19_ShortestLongestWord {
-    // Method to split text into words using charAt
+public class Q19_ShortestLongestWord {
     public static String[] splitByCharAt(String str) {
         int len = getLength(str);
         int wordCount = 1;
@@ -20,7 +19,6 @@ public class 19_ShortestLongestWord {
         return words;
     }
 
-    // Method to find length without using length()
     public static int getLength(String str) {
         int count = 0;
         try {
@@ -32,7 +30,6 @@ public class 19_ShortestLongestWord {
         return count;
     }
 
-    // Method to get 2D array of words and their lengths
     public static String[][] getWordsAndLengths(String[] words) {
         String[][] arr = new String[words.length][2];
         for (int i = 0; i < words.length; i++) {
@@ -42,7 +39,6 @@ public class 19_ShortestLongestWord {
         return arr;
     }
 
-    // Method to find shortest and longest word
     public static int[] findShortestLongest(String[][] arr) {
         int minIdx = 0, maxIdx = 0;
         int minLen = Integer.parseInt(arr[0][1]);
