@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 14_StudentGrades2D {
+public class Q14_StudentGrades2D {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of students: ");
