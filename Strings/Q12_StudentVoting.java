@@ -1,17 +1,15 @@
 import java.util.Random;
 
-public class 12_StudentVoting {
-    // Method to generate random ages for n students
+public class Q12_StudentVoting {
     public static int[] generateAges(int n) {
         int[] ages = new int[n];
         Random rand = new Random();
         for (int i = 0; i < n; i++) {
-            ages[i] = 10 + rand.nextInt(90); // random 2-digit age
+            ages[i] = 10 + rand.nextInt(90);
         }
         return ages;
     }
 
-    // Method to check voting eligibility
     public static String[][] checkVoting(int[] ages) {
         String[][] result = new String[ages.length][2];
         for (int i = 0; i < ages.length; i++) {
@@ -27,7 +25,6 @@ public class 12_StudentVoting {
         return result;
     }
 
-    // Method to display 2D array in tabular format
     public static void displayTable(String[][] arr) {
         System.out.println("Age\tCan Vote");
         for (String[] row : arr) {
