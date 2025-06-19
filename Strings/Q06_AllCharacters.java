@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 06_AllCharacters {
-    // Method to return all characters in a string as a char array (without using toCharArray)
+public class Q06_AllCharacters {
     public static char[] getChars(String str) {
         char[] chars = new char[str.length()];
         for (int i = 0; i < str.length(); i++) {
@@ -10,7 +9,6 @@ public class 06_AllCharacters {
         return chars;
     }
 
-    // Method to compare two char arrays
     public static boolean compareCharArrays(char[] arr1, char[] arr2) {
         if (arr1.length != arr2.length) return false;
         for (int i = 0; i < arr1.length; i++) {
