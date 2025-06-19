@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 11_QuotientRemainder {
+public class Q11_QuotientRemainder {
     public static int[] findRemainderAndQuotient(int number, int divisor) {
         int[] result = new int[2];
         result[0] = number / divisor;
