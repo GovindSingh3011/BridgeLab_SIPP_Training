@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 04_NumberChecker {
+public class Q04_NumberChecker {
     public static int checkNumber(int number) {
         if (number > 0) return 1;
         else if (number < 0) return -1;
