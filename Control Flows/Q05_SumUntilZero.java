@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 05_SumUntilZero {
+public class Q05_SumUntilZero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double total = 0.0, num;
