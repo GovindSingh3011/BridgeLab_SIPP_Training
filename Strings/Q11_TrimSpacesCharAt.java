@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 11_TrimSpacesCharAt {
-    // Method to trim leading and trailing spaces using charAt
+public class Q11_TrimSpacesCharAt {
     public static int[] trimIndices(String str) {
         int len = getLength(str);
         int start = 0, end = len - 1;
@@ -10,7 +9,6 @@ public class 11_TrimSpacesCharAt {
         return new int[]{start, end + 1};
     }
 
-    // Method to create substring using charAt
     public static String substringByCharAt(String str, int start, int end) {
         StringBuilder sb = new StringBuilder();
         for (int i = start; i < end && i < str.length(); i++) {
@@ -19,7 +17,6 @@ public class 11_TrimSpacesCharAt {
         return sb.toString();
     }
 
-    // Method to compare two strings using charAt
     public static boolean compareByCharAt(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
         for (int i = 0; i < s1.length(); i++) {
@@ -28,7 +25,6 @@ public class 11_TrimSpacesCharAt {
         return true;
     }
 
-    // Method to find length without using length()
     public static int getLength(String str) {
         int count = 0;
         try {
