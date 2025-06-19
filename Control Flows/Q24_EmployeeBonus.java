@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 24_EmployeeBonus {
+public class Q24_EmployeeBonus {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double salary = sc.nextDouble();
