@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 20_FactorsWhile {
+public class Q20_FactorsWhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt(), i = 1;
