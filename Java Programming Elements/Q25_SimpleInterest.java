@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 25_SimpleInterest {
+public class Q25_SimpleInterest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter principal: ");
