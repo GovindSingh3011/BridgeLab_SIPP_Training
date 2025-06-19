@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 22_TriangleRounds {
+public class Q22_TriangleRounds {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter side 1 in meters: ");
