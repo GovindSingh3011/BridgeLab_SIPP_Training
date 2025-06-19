@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 15_DoubleOperation {
+public class Q15_DoubleOperation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a: ");
