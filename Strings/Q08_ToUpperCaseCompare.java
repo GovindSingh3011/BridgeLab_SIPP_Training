@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class 08_ToUpperCaseCompare {
-    // Method to convert string to uppercase using charAt
+public class Q08_ToUpperCaseCompare {
     public static String toUpperCaseManual(String str) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < str.length(); i++) {
@@ -15,7 +14,6 @@ public class 08_ToUpperCaseCompare {
         return sb.toString();
     }
 
-    // Method to compare two strings using charAt
     public static boolean compareByCharAt(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
         for (int i = 0; i < s1.length(); i++) {
