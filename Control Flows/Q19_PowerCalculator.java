@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 19_PowerCalculator {
+public class Q19_PowerCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt(), power = sc.nextInt(), result = 1;
