@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 25_NumberCheckerSpecial {
+public class Q25_NumberCheckerSpecial {
     public static boolean isPrime(int number) {
         if (number <= 1) return false;
         for (int i = 2; i <= Math.sqrt(number); i++) {
