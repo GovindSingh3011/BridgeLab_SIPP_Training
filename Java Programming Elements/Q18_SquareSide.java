@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 18_SquareSide {
+public class Q18_SquareSide {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter perimeter: ");
