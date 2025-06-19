@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 20_BMIArray {
+public class Q20_BMIArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of persons: ");
