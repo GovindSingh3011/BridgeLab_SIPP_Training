@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 40_BMICalculator {
+public class Q40_BMICalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double weight = sc.nextDouble();
