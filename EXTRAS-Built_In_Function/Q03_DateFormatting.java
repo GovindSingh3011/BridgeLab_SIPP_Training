@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class 03_DateFormatting {
+public class Q03_DateFormatting {
     public static void main(String[] args) {
         DateTimeFormatter format01 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter format02 = DateTimeFormatter.ofPattern("yyyy-MM-dd");
