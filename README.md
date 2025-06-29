@@ -25,10 +25,10 @@ This branch contains foundational Java concepts and practice problems organized 
 - 📁 [Control Flows](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Core_Java/Control%20Flows)  
   Practice problems covering conditional statements (`if`, `else`, `switch`) and loops (`for`, `while`, `do-while`).
 
-📁 [EXTRAS-Built_In_Function](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Core_Java/EXTRAS-Built_In_Function)  
+- 📁 [EXTRAS-Built_In_Function](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Core_Java/EXTRAS-Built_In_Function)  
 Java programs using Java's built-in functions and utilities.
 
-📁 [Java Programming Elements](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Core_Java/Java%20Programming%20Elements)  
+- 📁 [Java Programming Elements](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Core_Java/Java%20Programming%20Elements)  
 Core language constructs like variables, data types, and operators.
 
 - 📁 [Methods](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Core_Java/Methods)  
