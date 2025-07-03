@@ -62,6 +62,15 @@ encapsulation.
 - 📁 [This_Static_Final](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/OOPs/This_Static_Final)  
   Practice programs demonstrating the use of `this`, `static`, and `final` keywords.
 
+- 📁 [Inheritance](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/OOPs/Inheritance)  
+  Includes practice programs related to inheritance concepts such as
+  Single inheritance, Multilevel and hierarchical inheritance, Use of `super` keyword, Method overriding and
+  polymorphism
+
+- 📁 [Encapsulation, Polymorphism, Interface, and Abstract Class](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/OOPs/Encapsulation%2C%20Polymorphism%2C%20Interface%20and%20Abstract%20Class)  
+  Contains data hiding and encapsulation, Method overloading/overriding (polymorphism), Interfaces and implementation,
+  Abstract class usage and rules
+
 ---
 
 ### 🔹 [Workshop Branch](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Workshop)
