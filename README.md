@@ -9,6 +9,7 @@ structured into multiple branches, each focusing on different topics of Java and
 - **Branches**:
     - [Core_Java](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Core_Java)
     - [OOPs](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/OOPs)
+    - [DSA](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/DSA)
     - [Workshop](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/Workshop)
 
 ---
@@ -70,6 +71,20 @@ encapsulation.
 - 📁 [Encapsulation, Polymorphism, Interface, and Abstract Class](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/OOPs/Encapsulation%2C%20Polymorphism%2C%20Interface%20and%20Abstract%20Class)  
   Contains data hiding and encapsulation, Method overloading/overriding (polymorphism), Interfaces and implementation,
   Abstract class usage and rules
+
+---
+
+### 🔹 [DSA Branch](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/DSA)
+
+This branch focuses on Data Structures and Algorithms, covering essential topics like linked lists, stacks, queues, HashMaps, and Sorting.
+- 📁 [LinkedList](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/DSA/LinkedList)  
+  Contains programs for singly, doubly and circular linked lists, including operations like insertion, deletion, and traversal.
+
+- 📁 [Stack, Queue, HashMap](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/DSA/Stack%2C%20Queue%2C%20HashMap)  
+  Includes implementations of stack and queue data structures, along with HashMap operations like insertion, deletion, and retrieval.
+
+- 📁 [Sorting Algorithms](https://github.com/GovindSingh3011/BridgeLab_SIPP_Training/tree/DSA/Sorting%20Algorithms)  
+  Includes various sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort.
 
 ---
 
